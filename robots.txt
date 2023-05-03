@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://the-brain.onrender.com/sitemap.xml
